@@ -1,16 +1,15 @@
-### Oláa, sou o Victor! 👋
+## Oláa, sou o Victor! 👋
 
-<!--
-**victorsponc/victorsponc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aqui encontrará alguns projetos de BI, Inteligência artificial, Data Scientist e Computação Quântica.
 
-Here are some ideas to get you started:
+Skills
+* Python
+* Excel
+* Power BI
+* Análise de dados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+No caminho para:
+* Ciência de dados
+* Inteligência artificial
+* Deep Learn
+* Computação Quântica
