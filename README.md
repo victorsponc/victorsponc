@@ -21,4 +21,8 @@
 * [Medium](https://victorsponchiado.medium.com/)
 
 ### Meus projetos
+## Computação Quântica
 * [Número aleatório - Computação Quântica](https://github.com/victorsponc/Computacao-quantica-numeros-aleatorios)
+
+## Python
+* [Análise profissional Cientista de Dados - Brasil](https://github.com/victorsponc/cientistas-de-dados-brasil)
