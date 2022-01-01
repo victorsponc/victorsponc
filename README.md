@@ -4,6 +4,7 @@
 
 
 ### Skills
+* Inovação
 * Python
 * Excel
 * Power BI
