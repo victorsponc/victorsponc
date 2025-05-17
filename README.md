@@ -6,24 +6,14 @@
 ### Skills
 * Inovação
 * Python
-* Excel
+* N8N
 * Power BI
 * Análise de dados
 
-### No caminho para:
-* Ciência de dados
-* Inteligência artificial
-* Deep Learn
-* Computação Quântica
+### Entregando:
+* Dashboards
+* Agentes de Inteligência artificial
 
 ### Me encontre por aí 🌎
 * [Linkedin](https://www.linkedin.com/in/victorsponchiado/)
 * [Instagram](https://www.instagram.com/victor.sponchiado/)
-* [Medium](https://victorsponchiado.medium.com/)
-
-### Meus projetos
-## Computação Quântica
-* [Número aleatório - Computação Quântica](https://github.com/victorsponc/Computacao-quantica-numeros-aleatorios)
-
-## Python
-* [Análise profissional Cientista de Dados - Brasil](https://github.com/victorsponc/cientistas-de-dados-brasil)
